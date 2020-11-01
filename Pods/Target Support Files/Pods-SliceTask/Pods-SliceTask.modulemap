@@ -1,0 +1,6 @@
+framework module Pods_SliceTask {
+  umbrella header "Pods-SliceTask-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_SliceTaskTests {
+  umbrella header "Pods-SliceTaskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
